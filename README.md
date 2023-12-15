@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yıldırım Mehmet Şimşek
-- 👀 I’m interested in C++, C, Java and Python
+- 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 - 📫 How to reach me yildirimmehmetsimsek@gmail.com
 
